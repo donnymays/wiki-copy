@@ -1,0 +1,16 @@
+body {
+  font-family: "sans-serif";
+}
+
+
+.link-list {
+  display: inline-block;
+  text-align: right;
+}
+
+.bg-success {
+  background-color: #DCF7EB!important;
+}
+.bg-primary {
+  background-color: #B1D7E3!important;
+}
