@@ -4,12 +4,17 @@ body {
 
 .logo {
   height: auto;
-  width: 15%;
+  width: 25%;
+  position: relative;
+  left: 50px;
+  top: 50px;
 }
 
 .link-list {
-  display: inline-block;
-  text-align: right;
+  position: relative;
+  left: 100%;
+  margin-bottom: 50px;
+ 
 }
 
 .bg-success {
