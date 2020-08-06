@@ -2,6 +2,10 @@ body {
   font-family: "sans-serif";
 }
 
+.logo {
+  height: auto;
+  width: 15%;
+}
 
 .link-list {
   display: inline-block;
